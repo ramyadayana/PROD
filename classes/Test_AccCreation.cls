@@ -1,6 +1,6 @@
-@IsTest
+@IsTest //Testclass0
 public class Test_AccCreation {
-@isTest(seeAllData = true)
+@IsTest
     private static void testAccount(){
         AccCreation.newAccountRecords();
     }
