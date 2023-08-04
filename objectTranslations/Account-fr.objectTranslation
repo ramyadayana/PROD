@@ -177,6 +177,10 @@
         <name>Test__c</name>
     </fields>
     <fields>
+        <label><!-- Test copado --></label>
+        <name>Test_copado__c</name>
+    </fields>
+    <fields>
         <label><!-- Upsell Opportunity --></label>
         <name>UpsellOpportunity__c</name>
         <picklistValues>

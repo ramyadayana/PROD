@@ -16,6 +16,14 @@
         <objectMapping>
             <inputObject>Lead</inputObject>
             <mappingFields>
+                <inputField>Phone</inputField>
+                <outputField>Phone</outputField>
+            </mappingFields>
+            <mappingFields>
+                <inputField>Title</inputField>
+                <outputField>Title</outputField>
+            </mappingFields>
+            <mappingFields>
                 <inputField>Company</inputField>
                 <outputField>AccountId</outputField>
             </mappingFields>
@@ -42,14 +50,6 @@
             <mappingFields>
                 <inputField>PostalCode</inputField>
                 <outputField>MailingPostalCode</outputField>
-            </mappingFields>
-            <mappingFields>
-                <inputField>Phone</inputField>
-                <outputField>Phone</outputField>
-            </mappingFields>
-            <mappingFields>
-                <inputField>Title</inputField>
-                <outputField>Title</outputField>
             </mappingFields>
             <outputObject>Contact</outputObject>
         </objectMapping>

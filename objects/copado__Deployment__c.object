@@ -1380,12 +1380,12 @@ copado__SUM_Deployed__c / copado__Deployment_Jobs_Count__c,
         <customTabListAdditionalFields>copado__Completed__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>copado__Status__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>copado__Schedule__c</customTabListAdditionalFields>
-        <excludedStandardButtons>IsotopeSubscription</excludedStandardButtons>
-        <excludedStandardButtons>Accept</excludedStandardButtons>
         <excludedStandardButtons>OpenListInQuip</excludedStandardButtons>
-        <excludedStandardButtons>PrintableListView</excludedStandardButtons>
+        <excludedStandardButtons>Accept</excludedStandardButtons>
         <excludedStandardButtons>ChangeOwner</excludedStandardButtons>
         <excludedStandardButtons>MassChangeOwner</excludedStandardButtons>
+        <excludedStandardButtons>PrintableListView</excludedStandardButtons>
+        <excludedStandardButtons>IsotopeSubscription</excludedStandardButtons>
         <listViewButtons>copado__Import_Template</listViewButtons>
         <lookupDialogsAdditionalFields>RECORDTYPE</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>copado__Date__c</lookupDialogsAdditionalFields>

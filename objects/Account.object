@@ -747,6 +747,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Test_copado__c</fullName>
+        <externalId>false</externalId>
+        <label>Test copado</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>

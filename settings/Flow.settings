@@ -4,6 +4,7 @@
     <doesEnforceApexCpuTimeLimit>true</doesEnforceApexCpuTimeLimit>
     <doesFormulaEnforceDataAccess>false</doesFormulaEnforceDataAccess>
     <doesFormulaGenerateHtmlOutput>true</doesFormulaGenerateHtmlOutput>
+    <enableEmailSimpleRespectProfiles>false</enableEmailSimpleRespectProfiles>
     <enableFlowBREncodedFixEnabled>true</enableFlowBREncodedFixEnabled>
     <enableFlowCustomPropertyEditor>false</enableFlowCustomPropertyEditor>
     <enableFlowDeployAsActiveEnabled>false</enableFlowDeployAsActiveEnabled>
@@ -12,8 +13,9 @@
     <enableFlowInterviewSharingEnabled>true</enableFlowInterviewSharingEnabled>
     <enableFlowNullPreviousValueFix>false</enableFlowNullPreviousValueFix>
     <enableFlowPauseEnabled>false</enableFlowPauseEnabled>
+    <enableFlowReactiveScreens>false</enableFlowReactiveScreens>
     <enableFlowUseApexExceptionEmail>false</enableFlowUseApexExceptionEmail>
-    <enableFlowViaRestUsesUserCtxt>false</enableFlowViaRestUsesUserCtxt>
+    <enableFlowViaRestUsesUserCtxt>true</enableFlowViaRestUsesUserCtxt>
     <enableLightningRuntimeEnabled>true</enableLightningRuntimeEnabled>
     <isAccessToInvokedApexRequired>false</isAccessToInvokedApexRequired>
     <isApexPluginAccessModifierRespected>true</isApexPluginAccessModifierRespected>
@@ -21,5 +23,6 @@
     <isFlowApexContextRetired>false</isFlowApexContextRetired>
     <isFlowBlockAccessToSessionIDEnabled>false</isFlowBlockAccessToSessionIDEnabled>
     <isManageFlowRequiredForAutomationCharts>false</isManageFlowRequiredForAutomationCharts>
+    <isSupportRollbackOnErrorForApexInvocableActionsEnabled>false</isSupportRollbackOnErrorForApexInvocableActionsEnabled>
     <isTimeResumedInSameRunContext>true</isTimeResumedInSameRunContext>
 </FlowSettings>
